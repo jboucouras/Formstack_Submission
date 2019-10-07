@@ -1,5 +1,5 @@
 # Formstack_Submission
-This is my submission for the Formstack Junior Development Project. 
+Hello! My name is Jason Boucouras, and this is my submission for the Formstack Junior Development Project. 
 
 This application was created to submit to Formstack by Jason Boucouras (myself) as part of my job application to be a Junior Software Developer at the Fisher's Formstack location.This application is designed to help cover bands (such as wedding bands) manage the songs in their repertoire. Music is very near and dear to me, and I wanted to make a project I was passionate about. The user can store their documents (song records) using this application. The keys available are Song Name, Artist Name, Tempo in BPM, Key of Song, and Date Last performed.For example, let's say user Kevin Malone is keeping track of all the songs that his wedding band, Scrantonicity, knows. Kevin could enter:The name of the song, who the original artist is, what BPM Kevin's band performs it at, the key Kevin's band performs it in, and when Kevin's band last performed the song. Using this information, Kevin has a good insight on developing Scrantonicity's setlist at their next gig.   
 
